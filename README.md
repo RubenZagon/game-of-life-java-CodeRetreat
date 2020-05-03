@@ -9,10 +9,10 @@ Enjoy it.
 
 
 ## Rules:
-<section>
+<div>
     <img alt="rules gol" src="./images/gol_rules.png" style="float:left;padding:2em;" width="300px">
-    <img alt="schema gol" src="./images/gol-schema.png" style="float:left;padding:2em;" width="300px">
-</section>
+    <img alt="schema gol" src="./images/gol-schema.png" style="float:right;padding:2em;" width="300px">
+</div>
 
 ## More information:
 
