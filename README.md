@@ -1,3 +1,11 @@
+# Restriction
+
+Forbidden loops
+   
+   - NO for
+   - NO while
+   - YES recursion
+
 # GameShould of life - Java
 ![Gif game of life](./images/game-of-life.gif)
 

@@ -6,6 +6,13 @@ public class GameShould {
 
     // Consideramos el mundo toroidal
 
+    // RESTRICCIÓN
+    /*
+    NO for
+    NO while
+    SÍ recursividad
+     */
+
     /*  Con números
 =================================================================  Under-population
     [[0,0,0],[0,1,0],[0,0,1]]  ---> [0,0,0]    x+1   [0,0,0]
