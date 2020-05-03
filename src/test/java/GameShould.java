@@ -4,6 +4,8 @@ import static org.assertj.core.api.Assertions.*;
 
 public class GameShould {
 
+    // Consideramos el mundo toroidal
+
     /*  Con números
 =================================================================  Under-population
     [[0,0,0],[0,1,0],[0,0,1]]  ---> [0,0,0]    x+1   [0,0,0]
@@ -44,7 +46,6 @@ public class GameShould {
                                           [💀,😀,😀]          [💀,💀,💀]
 =============================================================================
      */
-
 
     @Test
     public void it_works (){
