@@ -8,9 +8,10 @@ public class GameShould {
 
     // RESTRICCIÓN
     /*
-    NO for
-    NO while
-    SÍ recursividad
+   - NO if / else
+   - NO ternary
+   - NO switch
+   - YES try/catch
      */
 
     /*  Con números

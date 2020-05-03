@@ -2,9 +2,10 @@
 
 Forbidden loops
    
-   - NO for
-   - NO while
-   - YES recursion
+   - NO if / else
+   - NO ternary
+   - NO switch
+   - YES try/catch
 
 # GameShould of life - Java
 ![Gif game of life](./images/game-of-life.gif)
